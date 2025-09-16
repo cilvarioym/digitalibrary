@@ -17,5 +17,10 @@ Berikut ini adalah koleksi yang dimiliki
 10. [Beyond the Bookshelf: Virtual Reality as A Tool For Library Design and Interactive Tours](ppt/Slide 31.08.25-beyond the bookshelf virtual reality.pdf) - Tengku Siti Meriam bt Tengku Wook (2025)
 11. [Yang Fana Adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
 ---
+<p><a href="halaman1.html">Halaman 1</a>|
+<a href="halaman2.html">Halaman 2</a>|
+<a href="halaman3.html">Halaman 3</a>|
+<a href="halaman4.html">Halaman 4</a></p>
 
 *_Powered by GitHub Pages_*
+
