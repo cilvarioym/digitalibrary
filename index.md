@@ -18,9 +18,11 @@ Berikut ini adalah koleksi yang dimiliki
 11. [Yang Fana Adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
 ---
 ===============================================================================
-<p><a href="webti/halaman1.html">Halaman 1</a>|
+<hr>
+<p><a href="halaman1.html">Halaman 1</a>|
 <a href="halaman2.html">Halaman 2</a>|
 <a href="halaman3.html">Halaman 3</a>|
 <a href="halaman4.html">Halaman 4</a></p>
+<hr>
 *_Powered by GitHub Pages_*
 
